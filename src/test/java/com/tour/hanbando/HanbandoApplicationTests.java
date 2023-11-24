@@ -1,4 +1,4 @@
-package com.gdu.myhome;
+package com.tour.hanbando;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
